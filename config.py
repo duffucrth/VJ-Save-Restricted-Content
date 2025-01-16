@@ -4,13 +4,13 @@ import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7849386736:AAGTm3MGZmjzF83cTZvlFTljxpxbRNpnh7Q")
 
 # Your API ID from my.telegram.org
-API_ID = int(os.environ.get("API_ID", "28491741"))
+API_ID = int(os.environ.get("API_ID", "20851229"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "1249c188829cd89a6f94544648e04427")
+API_HASH = os.environ.get("API_HASH", "a9df0f5e9ecba753d0b8075a54305fdd)
 
 # Your Owner / Admin Id For Broadcast 
-ADMINS = int(os.environ.get("ADMINS", "6337726170"))
+ADMINS = int(os.environ.get("ADMINS", "5683076340"))
 
 # Your Mongodb Database Url
 # Warning - Give Db uri in deploy server environment variable, don't give in repo.
